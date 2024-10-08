@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/NChittimalla/airbyte-deployment/blob/main/yiH_KxMn_400x400.jpg?raw=true" alt="Terces Logo" />
-</p>
-
 # Airbyte Deployment on AWS EKS
 ### Prerequisites
 Before starting the deployment, ensure that the following components are installed:
